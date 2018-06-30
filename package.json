@@ -1,0 +1,34 @@
+{
+  "name": "cinamondemo",
+  "version": "1.0.0",
+  "description": "call video for cinamon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eiyuutech/cinamondemo.git"
+  },
+  "keywords": [
+    "call",
+    "video",
+    "cinamon",
+    "eiyuu"
+  ],
+  "author": "eiyuu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eiyuutech/cinamondemo/issues"
+  },
+  "homepage": "https://github.com/eiyuutech/cinamondemo#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "sqlite3": "^4.0.1"
+  }
+}
